@@ -1,6 +1,6 @@
 # Portfolio Website
 
-This is a dark-light contrast website for a portfolio. It includes a bit of custom JavaScript for the typewriter effect and uses a script called "Lightbox" for the project modals.
+This is a dark-light contrast portfolio website. It includes a bit of custom JavaScript for the typewriter effect and uses a script called "Lightbox" for the project models.
 
 <img src="./images/screen.png" />
 
